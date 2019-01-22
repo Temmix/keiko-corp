@@ -1,0 +1,7 @@
+install the following and configure the app module properly.
+npm install redux ng2-redux --save
+or 
+npm install redux @angular-redux/store --save
+
+npm install tassign --save
+npm install immutable --save
